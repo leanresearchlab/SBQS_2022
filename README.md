@@ -33,3 +33,10 @@ findings can help developers design a prioritization scheme for test
 smells refactoring and make them aware of the real benefits of
 refactoring test smells.
 </p>
+
+
+<h2 align="left"> Additional information </h2>
+
+<p align="justify">
+This anonymous repository contains the quality measurements before and after refactoring the test smells. Organized by system (S1, S2, S3 and S4), and by test smells (Assertion Roulette, Magic Number Test, Eager Test, Sensitive Equality and Duplicate Assert). Also contains analysis of research questions RQ2 and RQ3
+</p>
