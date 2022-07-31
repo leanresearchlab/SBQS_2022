@@ -1,4 +1,4 @@
-<h3 align="left"> SBES 2022 </h3>
+<h3 align="left"> SBQS 2022 </h3>
 
 <h1 align="left"> Analyzing Test Smells Refactoring from a Developers Perspective </h1>
 
